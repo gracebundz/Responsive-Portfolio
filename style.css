@@ -213,4 +213,18 @@ input[type=submit] {
 	padding: 10px 30px;
 	cursor: pointer;
 }
-Contact GitHub API Training Shop Blog About
+
+@media screen (max-width: 980px){
+
+}
+
+@media screen (max-width:768px) {
+
+}
+
+@media screen (max-width:648px) 
+{
+	.masthead {
+		display:static;
+	}
+}
